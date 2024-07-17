@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+venv/
+secrets.py
+scripts
+__pycache__/
+.mypy_cache
+.coverage
+*.out
